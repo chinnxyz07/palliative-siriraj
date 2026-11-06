@@ -1,7 +1,7 @@
 # ตั้งค่า Decap CMS (หน้าแก้ไขเนื้อหาที่ /admin)
 backend:
   name: github
-  repo: healthtechnologyservicesivitt/Siriraj-palliative-site
+    repo: chinnxyz07/palliative-siriraj
   branch: main
 # คลังรูปภาพ: รูปที่อัปโหลดใหม่ทุกที่จะเก็บรวมในโฟลเดอร์เดียว (ดู/เลือกซ้ำได้ที่แท็บ Media)
 media_folder: images/uploads
