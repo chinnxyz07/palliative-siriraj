@@ -11,7 +11,7 @@
     {
       "page": "posts",
       "label": "โพสต์",
-      "show": true
+      "show": false
     },
     {
       "page": "about",
