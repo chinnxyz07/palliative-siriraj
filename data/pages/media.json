@@ -3,32 +3,44 @@
   "intro": "ภาพประกอบเพื่อช่วยอธิบายเรื่องการดูแลอย่างอ่อนโยน เข้าใจง่าย และเข้าถึงได้ทุกวัย",
   "images": [
     {
-      "image": "images/media/media-1.jpg",
+      "image": "/images/uploads/Gemini_Generated_Image_rqjno9rqjno9rqjn.jpg",
       "alt": "ภาพประกอบสื่อความรู้ 1"
     },
     {
-      "image": "images/media/media-2.jpg",
+      "image": "/images/uploads/Gemini_Generated_Image_1l4bxv1l4bxv1l4b.jpg",
       "alt": "ภาพประกอบสื่อความรู้ 2"
     },
     {
-      "image": "images/media/media-3.jpg",
+      "image": "/images/uploads/Heartwarming Family Care in Pastel Serenity.png",
       "alt": "ภาพประกอบสื่อความรู้ 3"
     },
     {
-      "image": "images/media/media-4.jpg",
+      "image": "/images/uploads/Gemini_Generated_Image_f4yuchf4yuchf4yu.jpg",
       "alt": "ภาพประกอบสื่อความรู้ 4"
     },
     {
-      "image": "images/media/media-5.jpg",
+      "image": "/images/uploads/Gemini_Generated_Image_ctr137ctr137ctr1.jpg",
       "alt": "ภาพประกอบสื่อความรู้ 5"
     },
     {
-      "image": "images/media/media-6.jpg",
+      "image": "/images/uploads/Pastel Community Wellness Collage.png",
       "alt": "ภาพประกอบสื่อความรู้ 6"
     },
     {
-      "image": "images/media/media-7.jpg",
+      "image": "/images/uploads/Heartfelt Caregiving Moment.png",
       "alt": "ภาพประกอบสื่อความรู้ 7"
+    },
+    {
+      "image": "/images/uploads/Palliative Care_ เติมชีวิตด้วยความรัก.png",
+      "alt": ""
+    },
+    {
+      "image": "/images/uploads/Intergenerational Health Education Gathering.png",
+      "alt": ""
+    },
+    {
+      "image": "/images/uploads/Compassionate Care Across Communities-1.png",
+      "alt": ""
     }
   ]
 }
