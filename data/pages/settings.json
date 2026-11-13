@@ -19,13 +19,13 @@
       "show": true
     },
     {
-      "page": "articles",
-      "label": "บทความ",
+      "page": "knowledge",
+      "label": "ความรู้",
       "show": true
     },
     {
-      "page": "knowledge",
-      "label": "ความรู้",
+      "page": "articles",
+      "label": "บทความ",
       "show": true
     },
     {
