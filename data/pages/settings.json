@@ -49,23 +49,28 @@
       "title": "เมนู",
       "links": [
         {
-          "label": "Palliative Care",
-          "page": "",
+          "label": "เกี่ยวกับ",
+          "page": "about",
           "url": ""
         },
         {
-          "label": "ความรู้",
+          "label": "pallitative",
           "page": "knowledge",
           "url": ""
         },
         {
-          "label": "ข่าวสาร",
-          "page": "",
+          "label": "บทความและข่าวสาร",
+          "page": "articles",
           "url": ""
         },
         {
-          "label": "ดาวน์โหลด",
-          "page": "",
+          "label": "เรื่องสั้นและหนังสือ",
+          "page": "stories",
+          "url": ""
+        },
+        {
+          "label": "สื่อ",
+          "page": "media",
           "url": ""
         }
       ]
@@ -74,19 +79,19 @@
       "title": "ข้อมูลสำหรับผู้ป่วย",
       "links": [
         {
-          "label": "ผู้ป่วย",
+          "label": "การจัดการอาการ",
           "page": "",
-          "url": ""
+          "url": "http://127.0.0.1:5500/pages/knowledge.html?cat=sso-1"
         },
         {
           "label": "ครอบครัว",
           "page": "",
-          "url": ""
+          "url": "http://127.0.0.1:5500/pages/knowledge.html?cat=c20261113083204"
         },
         {
-          "label": "ผู้ดูแล",
+          "label": "เครื่องมือและคู่มือ",
           "page": "",
-          "url": ""
+          "url": "http://127.0.0.1:5500/pages/knowledge.html?cat=sso"
         }
       ]
     }
