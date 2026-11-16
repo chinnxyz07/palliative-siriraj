@@ -14,28 +14,28 @@
         "image": "/images/uploads/Gemini_Generated_Image_1l4bxv1l4bxv1l4b.jpg",
         "title": "ดูแลอาการและความไม่สบาย",
         "text": "บรรเทาความเจ็บปวดและอาการต่าง ๆ เพื่อให้ผู้ป่วยรู้สึกสบายขึ้นในแต่ละวัน",
-        "page": "",
+        "page": "knowledge",
         "url": ""
       },
       {
         "image": "/images/uploads/Gemini_Generated_Image_rqjno9rqjno9rqjn.jpg",
         "title": "ดูแลด้านจิตใจและความรู้สึก",
         "text": "รับฟังและอยู่เคียงข้าง เพื่อดูแลความรู้สึกของผู้ป่วยอย่างอ่อนโยน",
-        "page": "",
+        "page": "knowledge",
         "url": ""
       },
       {
         "image": "/images/uploads/Gemini_Generated_Image_omcas9omcas9omca.jpg",
         "title": "สนับสนุนครอบครัวและผู้ดูแล",
         "text": "ให้คำแนะนำและกำลังใจแก่ผู้ดูแล เพื่อให้สามารถดูแลได้อย่างมั่นใจ",
-        "page": "",
+        "page": "knowledge",
         "url": ""
       },
       {
         "image": "/images/uploads/Gemini_Generated_Image_f4yuchf4yuchf4yu.jpg",
         "title": "วางแผนการดูแลให้เหมาะสม",
         "text": "ร่วมวางแผนการดูแลที่สอดคล้องกับความต้องการของผู้ป่วยและครอบครัว",
-        "page": "",
+        "page": "knowledge",
         "url": ""
       }
     ]
